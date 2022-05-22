@@ -1,0 +1,30 @@
+body {
+    background-image: url(./Imagens/cartao-de-visita-fundo.jpg);
+    background-size: 450px 250px;
+    background-color: black;
+    background-repeat: no-repeat;
+    max-width: fit-content;
+    max-height: fit-content;
+
+}
+
+#nome {
+    color: #3269b1;
+    margin-left: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#text{
+    color: #37a8d0;
+    margin-top: -20px;
+    margin-left: 20px;
+    font-size: 10px;
+}
+
+li {
+    margin-top: 40px;
+    margin-left: -20px;
+    margin-bottom: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    list-style-type: none;
+}
